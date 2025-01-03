@@ -1,0 +1,9 @@
+streamlit
+random
+smtplib
+email
+langchain
+langchain-groq
+sentence-transformers
+numpy
+PyPDF2
